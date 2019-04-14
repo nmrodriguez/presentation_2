@@ -1,0 +1,9 @@
+Lang_exp;Outcome;Full;Partial;Full_and_Partial_Exchanges
+L1_exp1;lexical;12;31;43
+L1_exp1;non-lexical;2;6;8
+L2_exp1;lexical;5;8;13
+L2_exp1;non-lexical;8;8;16
+L1_exp2;lexical;11;16;27
+L1_exp2;non-lexical;6;8;14
+L2_exp2;lexical;11;15;26
+L2_exp2;non-lexical;7;4;11

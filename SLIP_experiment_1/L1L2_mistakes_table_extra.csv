@@ -1,0 +1,9 @@
+Context;Outcome;fit;se;Full;Partial;Full_and_Partial_Exchanges
+L1 mixed;lexical;0,467;0,154;12;31;43
+L1 mixed;non-lexical;0,078;0,378;2;6;8
+L1 non-lexical;lexical;0,3;0,192;12;17;29
+L1 non-lexical;non-lexical;0,167;0,258;9;6;15
+L2 mixed;lexical;0,122;0,302;5;8;13
+L2 mixed;non-lexical;0,178;0,25;8;8;16
+L2 non-lexical;lexical;0,133;0,289;6;7;13
+L2 non-lexical;non-lexical;0,156;0,267;7;8;15

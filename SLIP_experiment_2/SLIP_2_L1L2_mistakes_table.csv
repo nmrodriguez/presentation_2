@@ -1,0 +1,9 @@
+Target;Outcome;fit;Partial;Full_and_Partial_Exchanges
+L1 Word;lexical;11;9;20
+L1 Word;non-lexical;6;8;14
+L1 Non-word;lexical;11;16;27
+L1 Non-word;non-lexical;6;8;14
+L2 Word;lexical;20;10;30
+L2 Word;non-lexical;1;0;1
+L2 Non-word;lexical;11;15;26
+L2 Non-word;non-lexical;7;4;11
