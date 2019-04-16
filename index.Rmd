@@ -51,6 +51,26 @@ output:
 
 ---
 
+# Results
+
+- Experiment 1: 
+  - only few L2 words were presented
+  - clear lexical bias effect in L1, but not L2
+  
+--
+
+- Experiment 2: 
+  - more L2 words presented
+  - no lexical bias effect in either language
+  - but there was a three-way interaction between Outcome, Language, and Experiment, suggesting a strong lexical bias effect in Experiment 1 for L1 but not L2, and Experiment 2 revealing a comparable lexical bias effect in both languages 
+  
+--
+
+- Conclusion: 
+  - the amount of exposure to existing words appears to have an influence on the occurrence of the lexical bias effect in L1 and L2 
+  
+---
+
 # What is publicly available
 
 --
